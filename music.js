@@ -8,7 +8,7 @@
   voice.insertAdjacentElement('afterend', panel);
   const bed = document.createElement('audio');
   bed.id = 'soundscape'; bed.loop = true; bed.preload = 'none'; bed.hidden = true;
-  bed.src = 'soundscape.mp3?v=music-1'; bed.volume = 0;
+  bed.src = 'soundscape.mp3?v=music-2'; bed.volume = 0;
   panel.append(bed);
   const enabled = panel.querySelector('#soundscape-enabled');
   const volume = panel.querySelector('#soundscape-volume');
