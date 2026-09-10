@@ -12,6 +12,10 @@ The default pace is **0.94×**, 6% slower than the supplied recordings, with pit
 
 The full guided scripts are `feel-en.md` and `feel-es.md`; `feel.json` holds source-point mappings. ORB Learn remains an optional script-authoring continuation action; it is not advertised as a completed separate course recording.
 
+## Background soundscape
+
+Both languages and listening modes include optional quiet instrumental music with real Mexican street and marching-band ambience. Adjust **Background volume** or uncheck **Music & Mexican street ambience**. Music follows narration play/pause, fades gently, and keeps its position across points. Your preference is saved locally. It does not play on page load. Original voice recordings are unchanged. The soundscape also works offline. See `music-credits.md` for the generated instrumental and the actual locations, dates and CC0 licenses of the field recordings; these are not recordings of a particular Día de Muertos ceremony.
+
 ## Media and evidence
 
 Photo captions, photographers, source pages, licenses, and file hashes are preserved in `photos.json`. Each photo retains its own Creative Commons license. No blanket relicensing is claimed. Photos are resized and compressed; display crops vary. No AI-generated photographs are used.

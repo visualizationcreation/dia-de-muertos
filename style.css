@@ -6,3 +6,5 @@
 [hidden]{display:none!important}
 
 [hidden]{display:none!important}
+
+.soundscape-controls{margin:12px 0;padding:13px 0;border-top:1px solid #72594155;border-bottom:1px solid #72594155}.soundscape-toggle,.soundscape-volume{display:flex;align-items:center;gap:10px}.soundscape-toggle{font-size:.88rem}.soundscape-volume{margin-top:9px;font-size:.78rem;flex-wrap:wrap}.soundscape-volume input{flex:1;min-width:90px;accent-color:#edbd70}.soundscape-volume output{min-width:3ch;font-variant-numeric:tabular-nums}.soundscape-note,#soundscape-status{font-size:.72rem;line-height:1.5;color:var(--muted,#c6b9bd);margin:8px 0 0}.soundscape-note a{color:inherit}#soundscape-status:empty{display:none}@media print{.soundscape-controls{display:none}}
