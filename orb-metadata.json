@@ -1,0 +1,42 @@
+{
+  "id": "dia-de-muertos",
+  "title": "Día de Muertos — A Place for Those We Remember",
+  "revision": "2026-09-10.3",
+  "languages": [
+    "en",
+    "es"
+  ],
+  "pointCount": 37,
+  "photoCount": 52,
+  "videoCount": 13,
+  "interface": "Sphere and six-direction compass. All photographs and videos are embedded in their mapped points.",
+  "defaultPlaybackRate": 0.94,
+  "voices": {
+    "en": "Kokoro Heart (af_heart)",
+    "es": "Kokoro Dora (ef_dora)"
+  },
+  "feelAndExperience": {
+    "en": {
+      "voice": "af_heart",
+      "points": 37,
+      "durationSeconds": 1425.13425,
+      "defaultPlaybackRate": 0.94,
+      "listeningSecondsAtDefault": 1516.100265957447,
+      "allDecoded": true,
+      "exactScriptMatched": true,
+      "fullHumanListeningReview": false
+    },
+    "es": {
+      "voice": "ef_dora",
+      "points": 37,
+      "durationSeconds": 1392.1052916666667,
+      "defaultPlaybackRate": 0.94,
+      "listeningSecondsAtDefault": 1480.963076241135,
+      "allDecoded": true,
+      "exactScriptMatched": true,
+      "fullHumanListeningReview": false
+    }
+  },
+  "media": "Real photographs with individual Creative Commons licenses. No generated photographs.",
+  "authorship": "English and Spanish authored directly by the primary assistant; speech synthesized locally with Kokoro."
+}

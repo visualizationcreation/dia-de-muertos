@@ -1,0 +1,684 @@
+{
+  "id": "feel",
+  "legacyId": "rest",
+  "revision": "2026-09-10.feel.1",
+  "title": {
+    "en": "ORB Feel & Experience — Guided Audio Journey",
+    "es": "ORB Feel & Experience — Viaje de audio guiado"
+  },
+  "route": [
+    "welcome",
+    "memory",
+    "names",
+    "hospitality",
+    "calendar",
+    "feelings",
+    "floor-memory",
+    "offering",
+    "flowers",
+    "light",
+    "water",
+    "space",
+    "floor-symbols",
+    "hands",
+    "field",
+    "bread",
+    "paper",
+    "sugar",
+    "floor-craft",
+    "places",
+    "michoacan",
+    "yucatan",
+    "huasteca",
+    "huaquechula",
+    "floor-places",
+    "histories",
+    "history-roots",
+    "history-colonial",
+    "history-public",
+    "parade-art",
+    "floor-history",
+    "future",
+    "sharing",
+    "migration",
+    "public-memory",
+    "looking",
+    "floor-future"
+  ],
+  "passages": [
+    {
+      "id": "welcome",
+      "point": "welcome",
+      "title": {
+        "en": "A place for those we remember",
+        "es": "Un lugar para quienes recordamos"
+      },
+      "body": {
+        "en": "You may settle into a comfortable position and let your breathing find its own pace. Your eyes can stay open. Imagine the colors of a Día de Muertos parade moving through a street: orange flowers, painted faces, the broad sweep of a costume. This is an imagined journey, guided by documented places and traditions, rather than a visit to any particular family's ceremony.\n\nLet the procession move a little farther away. Behind its color, picture a smaller arrangement: a photograph, a glass, a favorite dish. Our path will follow the care that brings these things together. In the traditions UNESCO describes, loved ones are welcomed during a temporary return from the dead. We will hold that as a spiritual belief, while leaving room for other ways of remembering.",
+        "es": "Puedes acomodarte y dejar que tu respiración encuentre su propio ritmo. Los ojos pueden permanecer abiertos. Imagina los colores de un desfile de Día de Muertos avanzando por una calle: flores anaranjadas, rostros pintados, el amplio movimiento de un traje. Este es un recorrido imaginado, guiado por lugares y tradiciones documentados. No estamos entrando en la ceremonia de una familia en particular.\n\nDeja que el desfile se aleje un poco. Detrás de sus colores, imagina algo más pequeño: una fotografía, un vaso, un platillo favorito. Seguiremos el cuidado que reúne estas cosas. En las tradiciones que describe la UNESCO, se recibe a los seres queridos durante su regreso temporal del mundo de los muertos. Acogeremos ese sentido espiritual, dejando espacio también para otras maneras de recordar."
+      },
+      "sources": [
+        "unesco",
+        "smithsonian",
+        "once"
+      ],
+      "photo": "90433159"
+    },
+    {
+      "id": "memory",
+      "point": "memory",
+      "title": {
+        "en": "The photograph: a particular life",
+        "es": "La fotografía: una vida en particular"
+      },
+      "body": {
+        "en": "Bring your attention to the photograph. You do not need to invent the face. Even an indistinct portrait can remind you that an offering is addressed to someone: a person with a particular life, held in the memories of other people. A familiar possession beside the frame may carry a story a visitor cannot know.\n\nLet that unknown story have its space. You can recognize the care in the arrangement without supplying the missing words. From the movement of a crowd, your attention has come to rest on one life.",
+        "es": "Acerca tu atención a la fotografía. No hace falta inventar el rostro. Incluso un retrato impreciso puede recordarte que una ofrenda está dirigida a alguien: una persona con una vida particular, conservada en la memoria de otras personas. Un objeto junto al marco puede guardar una historia que una visita no conoce.\n\nDeja espacio para esa historia desconocida. Puedes reconocer el cuidado del conjunto sin completar las palabras que faltan. Desde el movimiento de una multitud, tu atención ha llegado a una sola vida."
+      },
+      "sources": [
+        "smithsonian",
+        "cisneros"
+      ],
+      "photo": "29397392"
+    },
+    {
+      "id": "names",
+      "point": "names",
+      "title": {
+        "en": "What a name makes visible",
+        "es": "Lo que un nombre hace visible"
+      },
+      "body": {
+        "en": "Beside that life, imagine the quiet presence of a name. A name gives attention somewhere to land. The objects around it may suggest preferences and relationships, but their private meanings belong to the people who know them.\n\nPerhaps a name of your own comes to mind; perhaps none does. There is no task to complete. Stay with the simple difference between an anonymous image and a person someone remembers. The name draws you closer, while reminding you that closeness does not mean knowing everything.",
+        "es": "Junto a esa vida, imagina la presencia discreta de un nombre. Un nombre le da a la atención un lugar donde detenerse. Los objetos cercanos pueden sugerir gustos y relaciones, pero sus significados íntimos pertenecen a quienes los conocen.\n\nTal vez aparezca un nombre de tu propia vida; tal vez no. No hay nada que debas completar. Quédate con la diferencia entre una imagen anónima y una persona a quien alguien recuerda. El nombre te acerca y, al mismo tiempo, recuerda que acercarse no significa saberlo todo."
+      },
+      "sources": [
+        "smithsonian",
+        "facts"
+      ],
+      "photo": "90720204"
+    },
+    {
+      "id": "hospitality",
+      "point": "hospitality",
+      "title": {
+        "en": "An offering as hospitality",
+        "es": "La ofrenda como hospitalidad"
+      },
+      "body": {
+        "en": "The name helps the table become a place of welcome. Imagine the familiar gestures of receiving a guest: arranging a space, preparing food, setting down a glass. In many of these traditions, that hospitality is offered to departed loved ones within the community's beliefs.\n\nNotice how the objects begin to belong together. The plate is no longer merely decoration. Yet welcoming a guest is only one doorway into the meaning. Prayer, obligation, and local history may also shape this care. The people who prepare the offering hold the fuller account.",
+        "es": "El nombre ayuda a que la mesa se convierta en un lugar de bienvenida. Imagina los gestos familiares de recibir a una visita: preparar un espacio, cocinar, colocar un vaso. En muchas de estas tradiciones, esa hospitalidad se ofrece a los seres queridos fallecidos, dentro de las creencias de la comunidad.\n\nObserva cómo los objetos empiezan a relacionarse. El plato ya no es solamente un adorno. Pero recibir a una visita es solo una entrada al significado. La oración, las obligaciones y la historia local también pueden darle forma. Quienes preparan la ofrenda conocen el relato más completo."
+      },
+      "sources": [
+        "unesco",
+        "inpi"
+      ],
+      "photo": "82250462"
+    },
+    {
+      "id": "calendar",
+      "point": "calendar",
+      "title": {
+        "en": "More than two squares on a calendar",
+        "es": "Más que dos casillas del calendario"
+      },
+      "body": {
+        "en": "Let that preparation widen into time. Before the table is ready, there are flowers to obtain, food to cook, and a place to arrange. November first and second are familiar dates, connected with Catholic commemorations, but local calendars and the reception of different groups of the departed vary.\n\nPicture the days gathering around the finished scene. The candlelit moment has a before and an after. The work does not fit inside a single photograph, and one community's timetable cannot stand for every other.",
+        "es": "Deja que esa preparación se extienda en el tiempo. Antes de que la mesa esté lista, hay flores que conseguir, comida que cocinar y un espacio que ordenar. El primero y el dos de noviembre son fechas conocidas, vinculadas con conmemoraciones católicas, pero los calendarios locales y la recepción de distintos grupos de difuntos varían.\n\nImagina los días que rodean la escena terminada. El momento iluminado por velas tiene un antes y un después. Todo ese trabajo no cabe en una fotografía, y el calendario de una comunidad no representa a todas."
+      },
+      "sources": [
+        "calendar",
+        "anthology"
+      ],
+      "photo": "90653338"
+    },
+    {
+      "id": "feelings",
+      "point": "feelings",
+      "title": {
+        "en": "Room for more than one feeling",
+        "es": "Espacio para más de una emoción"
+      },
+      "body": {
+        "en": "Within those days, many feelings may coexist. A bright color does not tell you that everyone is cheerful. Affection, devotion, grief, humor, and tiredness can share the same gathering.\n\nLet the imagined scene hold that range without choosing an emotion for anyone in it. Your own response can also remain unforced. You may be curious, moved, comfortable with the beauty, or simply listening. The flowers do not ask you to feel a particular way. They can remain flowers while people keep the complexity of their lives.",
+        "es": "Dentro de esos días pueden convivir muchos sentimientos. Un color brillante no significa que todas las personas estén alegres. El cariño, la devoción, el duelo, el humor y el cansancio pueden compartir una misma reunión.\n\nDeja que la escena imaginada contenga esa variedad sin elegir una emoción para quienes aparecen en ella. Tu respuesta tampoco necesita ser forzada. Puedes sentir curiosidad, conmoverte, disfrutar de la belleza o simplemente escuchar. Las flores no te piden sentir de una manera determinada. Pueden seguir siendo flores mientras las personas conservan la complejidad de sus vidas."
+      },
+      "sources": [
+        "cisneros",
+        "once"
+      ],
+      "photo": "76941731"
+    },
+    {
+      "id": "floor-memory",
+      "point": "floor-memory",
+      "title": {
+        "en": "What can a photograph never tell us?",
+        "es": "¿Qué no puede decirnos una fotografía?"
+      },
+      "body": {
+        "en": "At the edge of the photograph, allow a little open space. An image can document an arrangement; it cannot give us a family's full history or the inner experience of everyone present. This collection includes no interviews with the photographed families.\n\nThe next step would be listening to their own accounts, with consent and context. We will leave that doorway open instead of filling it with invented voices. From this respectful distance, turn your attention toward the objects we can actually examine.",
+        "es": "En el borde de la fotografía, deja un pequeño espacio abierto. Una imagen puede documentar un arreglo; no puede entregarnos la historia completa de una familia ni la experiencia interior de todas las personas presentes. Esta colección no incluye entrevistas con las familias fotografiadas.\n\nEl siguiente paso sería escuchar sus propios relatos, con consentimiento y contexto. Dejaremos abierta esa puerta, sin llenarla con voces inventadas. Desde esta distancia respetuosa, dirige tu atención a los objetos que sí podemos observar."
+      },
+      "sources": [
+        "anthology",
+        "cisneros"
+      ],
+      "photo": "9457365"
+    },
+    {
+      "id": "offering",
+      "point": "offering",
+      "title": {
+        "en": "The ofrenda: objects in relationship",
+        "es": "La ofrenda: objetos relacionados"
+      },
+      "body": {
+        "en": "Imagine the offering as a set of relationships. A path approaches a table. Light reaches a portrait. Food carries a connection to a kitchen and a remembered preference. There is no need to count the objects or turn them into a rule for every home.\n\nAn ofrenda can take different forms, and shared explanations do not erase family choices. Let your gaze travel through this imagined arrangement as it might follow a sentence: each object gains something from what is beside it. A line of orange petals offers a place to begin.",
+        "es": "Imagina la ofrenda como un conjunto de relaciones. Un camino llega a una mesa. La luz alcanza un retrato. La comida conserva una conexión con una cocina y un gusto recordado. No hace falta contar los objetos ni convertirlos en una regla para todas las casas.\n\nUna ofrenda puede tomar distintas formas, y las explicaciones compartidas no borran las decisiones familiares. Deja que tu mirada recorra este arreglo imaginado como si siguiera una frase: cada objeto recibe algo de lo que está a su lado. Una línea de pétalos anaranjados ofrece un punto de partida."
+      },
+      "sources": [
+        "inpi",
+        "cdmx"
+      ],
+      "photo": "94845987"
+    },
+    {
+      "id": "flowers",
+      "point": "flowers",
+      "title": {
+        "en": "Cempasúchil: a path of color",
+        "es": "Cempasúchil: un camino de color"
+      },
+      "body": {
+        "en": "Follow the petals toward a cluster of cempasúchil. You might imagine the density of the blossoms, their orange and yellow, and a fragrance near the flowers. INPI records explanations connecting flowers and their scent with welcoming and guiding the dead.\n\nThe same flower can make a narrow path or fill a large arch. Let that change of scale be gentle: a petal near your imagined feet, then a whole doorway of color. Every blossom also has a life before the offering, rooted in a field and handled by people.",
+        "es": "Sigue los pétalos hacia un conjunto de cempasúchil. Puedes imaginar la abundancia de las flores, sus tonos amarillos y anaranjados, y un aroma cercano. El INPI recoge explicaciones que relacionan las flores y su olor con recibir y guiar a los difuntos.\n\nLa misma flor puede formar un sendero estrecho o llenar un arco grande. Deja que cambie suavemente la escala: un pétalo cerca de tus pies imaginados, después toda una entrada de color. Cada flor también tiene una vida anterior a la ofrenda, arraigada en un campo y acompañada por el trabajo de las personas."
+      },
+      "sources": [
+        "inpi",
+        "regions"
+      ],
+      "photo": "63761027"
+    },
+    {
+      "id": "light",
+      "point": "light",
+      "title": {
+        "en": "What the candle illuminates",
+        "es": "Lo que ilumina la vela"
+      },
+      "body": {
+        "en": "Within that color, picture a small flame. Its light reaches the edge of a glass and touches the photograph. In documented accounts, candles guide returning souls; prayers and local practices give their presence further meaning.\n\nFor now, notice the visible relationship: a little light makes certain things easier to find. Beyond its circle, details remain less clear. A daytime photograph would reveal another part of the setting. Let the night keep its beauty without asking it to tell the whole story.",
+        "es": "Dentro de ese color, imagina una llama pequeña. Su luz alcanza el borde de un vaso y toca la fotografía. En relatos documentados, las velas guían a las almas que regresan; las oraciones y las prácticas locales les dan otros significados.\n\nPor ahora, observa la relación visible: una luz pequeña permite encontrar ciertos detalles. Fuera de su círculo, otras cosas quedan menos claras. Una fotografía diurna mostraría otra parte del lugar. Deja que la noche conserve su belleza sin pedirle que cuente la historia completa."
+      },
+      "sources": [
+        "inpi",
+        "unesco"
+      ],
+      "photo": "82440944"
+    },
+    {
+      "id": "water",
+      "point": "water",
+      "title": {
+        "en": "A glass of water, a gesture of care",
+        "es": "Un vaso de agua, un gesto de cuidado"
+      },
+      "body": {
+        "en": "Rest your attention on the glass itself. Among the flowers and ornament, water can be almost easy to overlook. INPI and CONAGUA explain it as an offering to relieve the souls' thirst after their journey. Salt is also described in relation to purification. These are symbolic and religious accounts.\n\nImagine the plainness of that provision: a glass placed with care. From the enormous figures of the parade, the journey has brought you to something held in one hand. A small object can gather a great deal of attention.",
+        "es": "Descansa la atención en el vaso. Entre las flores y los adornos, el agua puede pasar casi inadvertida. El INPI y la CONAGUA explican su presencia como una ofrenda para aliviar la sed de las almas después de su viaje. La sal también se describe en relación con la purificación. Son explicaciones simbólicas y religiosas.\n\nImagina la sencillez de ese gesto: un vaso colocado con cuidado. Desde las enormes figuras del desfile, el recorrido te ha traído a algo que cabe en una mano. Un objeto pequeño puede reunir mucha atención."
+      },
+      "sources": [
+        "agua",
+        "inpi"
+      ],
+      "photo": "89770286"
+    },
+    {
+      "id": "space",
+      "point": "space",
+      "title": {
+        "en": "A table, an arch, a room",
+        "es": "Una mesa, un arco, una habitación"
+      },
+      "body": {
+        "en": "Now let the space around the glass come into view. A table, a rising structure, or an arch changes how a person approaches an offering. A home places remembrance among daily routines; a public installation gives it another setting.\n\nImagine your gaze moving upward through fabric, flowers, and images, as the documented offerings of Huaquechula invite the eye to do. Their forms deserve local explanations. We can follow a shape with curiosity while leaving its particular meaning with the people who made it.",
+        "es": "Deja que aparezca el espacio alrededor del vaso. Una mesa, una estructura elevada o un arco cambian la manera de acercarse a una ofrenda. Una casa sitúa el recuerdo entre las actividades cotidianas; una instalación pública le da otro entorno.\n\nImagina que tu mirada sube entre telas, flores e imágenes, como invitan a hacerlo las ofrendas documentadas de Huaquechula. Sus formas merecen explicaciones locales. Podemos seguir una figura con curiosidad y dejar su significado particular en manos de quienes la hicieron."
+      },
+      "sources": [
+        "cdmx",
+        "anthology"
+      ],
+      "photo": "36685212"
+    },
+    {
+      "id": "floor-symbols",
+      "point": "floor-symbols",
+      "title": {
+        "en": "Does every symbol have one meaning?",
+        "es": "¿Cada símbolo tiene un solo significado?"
+      },
+      "body": {
+        "en": "Pause at the point where looking becomes interpretation. A familiar list of symbols can help us begin, but it cannot explain every family or prove that a meaning has remained unchanged for centuries. A repeated explanation is not, by itself, a history.\n\nImagine leaving a small question beside the arrangement: what does this mean here, to the people who chose it? Answers would need named accounts and comparisons across time. With that question still open, the finished objects begin to lead us toward the hands that made them.",
+        "es": "Detente donde observar se convierte en interpretar. Una lista conocida de símbolos puede ayudarnos a empezar, pero no explica a todas las familias ni demuestra que un significado haya permanecido igual durante siglos. Una explicación repetida no es, por sí sola, una historia.\n\nImagina dejar una pequeña pregunta junto al arreglo: ¿qué significa esto aquí, para quienes lo eligieron? Las respuestas necesitarían relatos identificados y comparaciones a través del tiempo. Con esa pregunta abierta, los objetos terminados empiezan a llevarnos hacia las manos que los hicieron."
+      },
+      "sources": [
+        "inpi",
+        "anthology"
+      ],
+      "photo": "94342731"
+    },
+    {
+      "id": "hands",
+      "point": "hands",
+      "title": {
+        "en": "The hands behind the celebration",
+        "es": "Las manos que hacen la celebración"
+      },
+      "body": {
+        "en": "Follow a material backward from the table. Flowers were tended. Dough was mixed. Paper was cut. A painted figure had to be carried and assembled. The beautiful result begins to open into a sequence of work.\n\nYou can imagine attention in those movements without inventing a maker's thoughts. A craft film can show a tool, a gesture, a decision repeated. Let your own attention slow enough to notice the sequence. The offering is connected to fields and kitchens and workshops, even when they remain outside the frame.",
+        "es": "Sigue un material hacia atrás, desde la mesa. Las flores fueron cuidadas. La masa fue mezclada. El papel fue cortado. Una figura pintada tuvo que ser transportada y armada. El resultado hermoso empieza a revelar una secuencia de trabajo.\n\nPuedes imaginar el cuidado de esos movimientos sin inventar los pensamientos de quien trabaja. Una película sobre un oficio puede mostrar una herramienta, un gesto, una decisión repetida. Deja que tu atención vaya lo bastante despacio para notar la secuencia. La ofrenda está conectada con campos, cocinas y talleres, aunque queden fuera de la imagen."
+      },
+      "sources": [
+        "regions",
+        "once"
+      ],
+      "photo": "94847618"
+    },
+    {
+      "id": "field",
+      "point": "field",
+      "title": {
+        "en": "Before the flower reaches the altar",
+        "es": "Antes de que la flor llegue al altar"
+      },
+      "body": {
+        "en": "The orange of the table becomes the orange of a field. Imagine rows of living flowers, held by soil before anyone gathers them into an arch. The agricultural photograph reminds us that a symbol also has growing conditions and people who tend it.\n\nUNESCO connects the Indigenous festivities it describes with the completion of the annual maize cultivation cycle. That relationship does not set one calendar for every urban celebration. Stay with the more particular connection: these flowers, this work, a route from cultivated land toward a place of welcome.",
+        "es": "El anaranjado de la mesa se convierte en el anaranjado de un campo. Imagina hileras de flores vivas, sostenidas por la tierra antes de que alguien las reúna en un arco. La fotografía agrícola recuerda que un símbolo también tiene condiciones de crecimiento y personas que lo cuidan.\n\nLa UNESCO relaciona las festividades indígenas que describe con el final del ciclo anual de cultivo del maíz. Esa relación no establece un calendario único para todas las celebraciones urbanas. Quédate con una conexión más concreta: estas flores, este trabajo, un recorrido desde la tierra cultivada hasta un lugar de bienvenida."
+      },
+      "sources": [
+        "regions",
+        "unesco"
+      ],
+      "photo": "111981010"
+    },
+    {
+      "id": "bread",
+      "point": "bread",
+      "title": {
+        "en": "Bread carries a local signature",
+        "es": "El pan lleva una firma local"
+      },
+      "body": {
+        "en": "From the field, let your imagined attention enter the warmth of a kitchen. Picture dough taking shape beneath practiced hands, then the textured surface of a finished bread. Pan de muerto names a family of breads, with different forms and recipes. One familiar rounded loaf cannot represent them all.\n\nThe photographs include a bread identified with Putla de Guerrero in Oaxaca. Keep its place attached to its shape. Mixing, shaping, rising, and baking connect the final offering to learned skill. A remembered preference can travel through that skill into something made for the table.",
+        "es": "Desde el campo, deja que tu atención imaginada entre en la calidez de una cocina. Piensa en la masa tomando forma bajo unas manos experimentadas, después en la textura de un pan terminado. Pan de muerto nombra una familia de panes, con distintas formas y recetas. Una pieza redonda y conocida no puede representarlos a todos.\n\nLas fotografías incluyen un pan identificado con Putla de Guerrero, en Oaxaca. Conserva su lugar junto a su forma. Mezclar, dar forma, dejar crecer y hornear conectan la ofrenda con una habilidad aprendida. Un gusto recordado puede llegar, a través de ese trabajo, hasta la mesa."
+      },
+      "sources": [
+        "regions",
+        "anthology"
+      ],
+      "photo": "36716547"
+    },
+    {
+      "id": "paper",
+      "point": "paper",
+      "title": {
+        "en": "Paper that lets the sky through",
+        "es": "Papel que deja pasar el cielo"
+      },
+      "body": {
+        "en": "Above the imagined table, a sheet of papel picado moves slightly. Light passes through the openings; the paper that remains holds the pattern together. You might follow one narrow connection across the design, noticing how much depends on what has been left intact.\n\nNames, figures, and local motifs can vary with the occasion. A workshop film offers a closer view of the tools and choices. The finished sheet may be fragile, but the skill can continue through teaching and practice. Something brief can carry the work of a much longer tradition.",
+        "es": "Sobre la mesa imaginada, una hoja de papel picado se mueve ligeramente. La luz atraviesa los huecos; el papel que queda mantiene unido el diseño. Puedes seguir una conexión estrecha entre las figuras y notar cuánto depende de lo que se ha conservado intacto.\n\nLos nombres, las figuras y los motivos locales cambian según la ocasión. Una película de taller permite acercarse a las herramientas y las decisiones. La hoja terminada puede ser frágil, pero la habilidad continúa mediante la enseñanza y la práctica. Algo breve puede contener el trabajo de una tradición mucho más larga."
+      },
+      "sources": [
+        "regions",
+        "art"
+      ],
+      "photo": "124997084"
+    },
+    {
+      "id": "sugar",
+      "point": "sugar",
+      "title": {
+        "en": "A skull made by a confectioner",
+        "es": "Una calavera hecha por manos dulceras"
+      },
+      "body": {
+        "en": "Lower your gaze toward the bright surface of a sugar skull. In this material, an image of mortality meets sweetness and decoration. The photographs show variations in color, size, and form; some figures become dressed characters.\n\nLet the playfulness remain a possibility rather than an emotion assigned to its maker. A piece may belong to an offering, a market, a gift, or a display. Its caption matters. Imagine how the same image changes when it can be held, offered, bought, or eaten. The material gives it different ways to enter a life.",
+        "es": "Baja la mirada hacia la superficie brillante de una calavera de azúcar. En este material, una imagen de la muerte se encuentra con la dulzura y la decoración. Las fotografías muestran cambios de color, tamaño y forma; algunas figuras se convierten en personajes vestidos.\n\nDeja que el juego sea una posibilidad, sin atribuir una emoción a quien la hizo. Una pieza puede pertenecer a una ofrenda, un mercado, un regalo o una exhibición. Su descripción importa. Imagina cómo cambia una misma imagen cuando puede sostenerse, ofrecerse, comprarse o comerse. El material le da distintas maneras de entrar en una vida."
+      },
+      "sources": [
+        "facts",
+        "inpi"
+      ],
+      "photo": "94845993"
+    },
+    {
+      "id": "floor-craft",
+      "point": "floor-craft",
+      "title": {
+        "en": "What does a finished object leave out?",
+        "es": "¿Qué deja fuera un objeto terminado?"
+      },
+      "body": {
+        "en": "The objects have brought us close to the work, but their full production histories remain beyond this collection. We do not know every workshop, price, or supply chain. Beauty alone cannot tell us how a maker was paid or how a skill is being passed on.\n\nLet appreciation make room for that question. A deeper account would follow one object with its maker's consent, attending to materials, time, and learning. Carry the makers with you as we widen the map. The places ahead are lived communities, not interchangeable backdrops.",
+        "es": "Los objetos nos han acercado al trabajo, pero sus historias completas de producción quedan fuera de esta colección. No conocemos cada taller, precio o cadena de suministro. La belleza por sí sola no revela cuánto recibió quien hizo una pieza ni cómo se transmite su habilidad.\n\nDeja que la admiración abra espacio para esa pregunta. Un relato más profundo seguiría un objeto con el consentimiento de su creador, atendiendo a los materiales, el tiempo y el aprendizaje. Conserva a esas personas en la atención mientras ampliamos el mapa. Los lugares que siguen son comunidades vivas, no fondos intercambiables."
+      },
+      "sources": [
+        "regions",
+        "anthology"
+      ],
+      "photo": "63839452"
+    },
+    {
+      "id": "places",
+      "point": "places",
+      "title": {
+        "en": "Many places, many ways of welcoming",
+        "es": "Muchos lugares, muchas formas de recibir"
+      },
+      "body": {
+        "en": "Imagine a map opening slowly. The lake region of Michoacán, the Yucatán Peninsula, the Huasteca, and Huaquechula in Puebla each keep their own address. We will visit them in imagination through named sources, leaving the distance between them visible.\n\nShared flowers and familiar dates do not make their traditions identical. A household observance, a public presentation, and a stage performance also tell different kinds of stories. As the map expands, let your attention become more specific: a place, a community, a setting. Four doorways offer a beginning, not all of Mexico.",
+        "es": "Imagina un mapa que se abre despacio. La región lacustre de Michoacán, la península de Yucatán, la Huasteca y Huaquechula, en Puebla, conservan cada una su dirección. Nos acercaremos en la imaginación mediante fuentes identificadas, dejando visible la distancia entre ellas.\n\nLas flores compartidas y las fechas conocidas no vuelven idénticas sus tradiciones. Una conmemoración doméstica, una presentación pública y una actuación escénica también cuentan historias distintas. Mientras el mapa se amplía, deja que tu atención sea más precisa: un lugar, una comunidad, un entorno. Cuatro puertas ofrecen un comienzo, no todo México."
+      },
+      "sources": [
+        "anthology",
+        "regions"
+      ],
+      "photo": "90652927"
+    },
+    {
+      "id": "michoacan",
+      "point": "michoacan",
+      "title": {
+        "en": "Michoacán: the lake and the vigil",
+        "es": "Michoacán: el lago y la vigilia"
+      },
+      "body": {
+        "en": "Let the first doorway open toward the Lake Pátzcuaro region. Janitzio and other communities are associated with Noche de Muertos and Purépecha traditions of honoring the departed. The photographs record paths, flowers, people, and candlelight at particular moments.\n\nImagine looking from the edge of such an image, without stepping into anyone's private remembrance. INAH's regional account also draws attention to communal preparation and shared food. The famous night rests within ongoing relationships. Beyond the light, there are days of work and people whose own accounts deepen what a visitor can understand.",
+        "es": "Deja que la primera puerta se abra hacia la región del lago de Pátzcuaro. Janitzio y otras comunidades se asocian con la Noche de Muertos y con tradiciones purépechas de honrar a los difuntos. Las fotografías registran caminos, flores, personas y velas en momentos particulares.\n\nImagina mirar desde el borde de una imagen así, sin entrar en el recuerdo íntimo de nadie. El relato regional del INAH también señala la preparación comunitaria y la comida compartida. La noche famosa descansa en relaciones continuas. Más allá de la luz hay días de trabajo y personas cuyos propios relatos amplían lo que una visita puede comprender."
+      },
+      "sources": [
+        "regions",
+        "anthology"
+      ],
+      "photo": "76651907"
+    },
+    {
+      "id": "yucatan",
+      "point": "yucatan",
+      "title": {
+        "en": "Hanal Pixán: food for the souls",
+        "es": "Hanal Pixán: comida para las almas"
+      },
+      "body": {
+        "en": "The map turns toward the Yucatán Peninsula, and the name Hanal Pixán brings food into the foreground. Commonly translated as food for the souls, it names a Maya tradition with important local differences. Picture the documented tables, cloth, food, and religious images as arrangements in their own settings.\n\nINAH also describes ancestral bone care in Pomuch, Campeche. That particular practice should not be assigned to every Maya community. We will keep it in its named context. A regional name opens the door; the locality helps us know which threshold we are approaching.",
+        "es": "El mapa gira hacia la península de Yucatán, y el nombre Hanal Pixán coloca la comida en primer plano. Traducido habitualmente como comida de las ánimas, nombra una tradición maya con diferencias locales importantes. Imagina las mesas, las telas, los alimentos y las imágenes religiosas documentadas como arreglos dentro de sus propios entornos.\n\nEl INAH también describe el cuidado de los huesos de los antepasados en Pomuch, Campeche. Esa práctica particular no debe atribuirse a todas las comunidades mayas. La conservaremos en su contexto. Un nombre regional abre una puerta; la localidad ayuda a reconocer el umbral al que nos acercamos."
+      },
+      "sources": [
+        "regions",
+        "pomuch"
+      ],
+      "photo": "82250466"
+    },
+    {
+      "id": "huasteca",
+      "point": "huasteca",
+      "title": {
+        "en": "Xantolo: the gathering extends outward",
+        "es": "Xantolo: la reunión se extiende"
+      },
+      "body": {
+        "en": "Let another part of the map come forward: the Huasteca, a region of several Indigenous peoples and local traditions. In UNESCO's account from the Huasteca Potosina, Xantolo brings offerings, food, hospitality, and masked dancers into shared community life.\n\nYou may imagine movement as you attend to that account. Keep the evidence distinct: musicians in Huejutla, a community festival in Xalapa, and a university performance are different settings. A stage can help us notice a costume or movement. It does not become a household ceremony simply because the tradition's name is shared.",
+        "es": "Deja que aparezca otra parte del mapa: la Huasteca, una región de varios pueblos indígenas y tradiciones locales. En el relato de la UNESCO sobre la Huasteca Potosina, Xantolo reúne ofrendas, comida, hospitalidad y danzantes enmascarados dentro de la vida comunitaria.\n\nPuedes imaginar el movimiento mientras atiendes a ese relato. Conserva las diferencias entre las imágenes: músicos en Huejutla, una fiesta comunitaria en Xalapa y una presentación universitaria son entornos distintos. Un escenario puede ayudarnos a observar un traje o un movimiento. No se convierte en una ceremonia doméstica por compartir el nombre de la tradición."
+      },
+      "sources": [
+        "xantolo",
+        "huehues"
+      ],
+      "photo": "139963032"
+    },
+    {
+      "id": "huaquechula",
+      "point": "huaquechula",
+      "title": {
+        "en": "Huaquechula: remembrance rises through a room",
+        "es": "Huaquechula: el recuerdo ocupa la habitación"
+      },
+      "body": {
+        "en": "From movement, turn toward the rising forms of Huaquechula in Puebla. The documented offerings draw the eye upward through fabric, flowers, religious imagery, and carefully arranged objects. Imagine following that vertical shape slowly, noticing the work needed to give it form.\n\nTheir striking appearance is an invitation to learn the local account, rather than to assign one universal meaning to every level. Keep the offering connected to its place and to those who prepare it. The height can catch the eye; the relationships keep the attention there.",
+        "es": "Desde el movimiento, vuelve hacia las formas elevadas de Huaquechula, en Puebla. Las ofrendas documentadas conducen la mirada hacia arriba entre telas, flores, imágenes religiosas y objetos cuidadosamente colocados. Imagina seguir despacio esa forma vertical, atendiendo al trabajo necesario para construirla.\n\nSu aspecto llamativo invita a conocer la explicación local, en lugar de asignar un significado universal a cada nivel. Conserva la ofrenda unida a su lugar y a quienes la preparan. La altura puede atraer la mirada; las relaciones mantienen allí la atención."
+      },
+      "sources": [
+        "anthology"
+      ],
+      "photo": "90469908"
+    },
+    {
+      "id": "floor-places",
+      "point": "floor-places",
+      "title": {
+        "en": "Who is missing from this map?",
+        "es": "¿Quién falta en este mapa?"
+      },
+      "body": {
+        "en": "Around these four doorways, the map still has open space. This collection cannot represent every community, and English and Spanish do not include all the languages in which these traditions are lived. What is readily visible online also shapes what appears here.\n\nThe missing places are not empty of knowledge. Their own accounts may be rich in ways this ORB has not gathered. Leave room for those voices and their chosen terms. As the map settles, another kind of distance appears: the distance between the present scene and its different histories.",
+        "es": "Alrededor de estas cuatro puertas, el mapa todavía tiene espacio abierto. Esta colección no puede representar a todas las comunidades, y el inglés y el español no incluyen todas las lenguas en que se viven estas tradiciones. Lo que resulta visible en internet también influye en lo que aparece aquí.\n\nLos lugares ausentes no están vacíos de conocimiento. Sus propios relatos pueden tener una riqueza que este ORB no ha reunido. Deja espacio para esas voces y sus términos elegidos. Mientras el mapa se aquieta, aparece otra distancia: la que separa la escena actual de sus distintas historias."
+      },
+      "sources": [
+        "anthology",
+        "xantolo"
+      ],
+      "photo": "75281433"
+    },
+    {
+      "id": "histories",
+      "point": "histories",
+      "title": {
+        "en": "How the celebration acquired its layers",
+        "es": "Cómo se formaron las capas de la celebración"
+      },
+      "body": {
+        "en": "Imagine the present scene opening into layers of time. Indigenous remembrance, Catholic commemorations, family practice, printed satire, and modern public art do not all begin at one moment. Their relationships deserve more than a single origin story.\n\nA skeleton on paper, a photograph on a table, and a figure moving in a parade can share imagery while doing different things. Let the layers remain distinct enough to examine. Rather than sliding into one distant, undifferentiated past, we can follow particular evidence and ask how people made and remade these forms.",
+        "es": "Imagina que la escena actual se abre en capas de tiempo. El recuerdo indígena, las conmemoraciones católicas, las prácticas familiares, la sátira impresa y el arte público moderno no empiezan en un mismo momento. Sus relaciones merecen algo más que un relato único del origen.\n\nUn esqueleto en papel, una fotografía sobre una mesa y una figura que avanza en un desfile pueden compartir imágenes y cumplir funciones distintas. Deja que las capas conserven suficiente claridad para observarlas. En vez de entrar en un pasado lejano e indiferenciado, podemos seguir evidencias concretas y preguntar cómo las personas hicieron y transformaron estas formas."
+      },
+      "sources": [
+        "history",
+        "art",
+        "change"
+      ],
+      "photo": "90854213"
+    },
+    {
+      "id": "history-roots",
+      "point": "history-roots",
+      "title": {
+        "en": "Indigenous histories, in the plural",
+        "es": "Historias indígenas, en plural"
+      },
+      "body": {
+        "en": "At the older end of that inquiry, keep the names of peoples in view. Maya and Purépecha histories, among many others, have their own languages, practices, and sources. A general image of a pre-Hispanic past cannot explain every present offering.\n\nImagine an older document beside a contemporary photograph. Each belongs to a setting. The space between them asks for investigation; resemblance alone cannot fill it. Long histories can be respected without making them simpler. Let that careful attention travel forward toward the changes of the colonial period.",
+        "es": "En la parte más antigua de esa investigación, conserva los nombres de los pueblos. Las historias mayas y purépechas, entre muchas otras, tienen sus propias lenguas, prácticas y fuentes. Una imagen general del pasado prehispánico no explica cada ofrenda actual.\n\nImagina un documento antiguo junto a una fotografía contemporánea. Cada uno pertenece a un entorno. El espacio entre ambos pide investigación; el parecido no basta para llenarlo. Podemos respetar las historias largas sin simplificarlas. Deja que esa atención cuidadosa avance hacia los cambios del periodo colonial."
+      },
+      "sources": [
+        "history",
+        "anthology"
+      ],
+      "photo": "29732925"
+    },
+    {
+      "id": "history-colonial",
+      "point": "history-colonial",
+      "title": {
+        "en": "The calendar and the colonial encounter",
+        "es": "El calendario y el encuentro colonial"
+      },
+      "body": {
+        "en": "Catholic observances of All Saints and the Faithful Departed became part of the November commemorations. Indigenous and Christian practices developed relationships under colonial conditions, including religious pressure and unequal power. The word syncretism describes joining and transformation, but it does not make that history smooth or identical everywhere.\n\nIn the imagined present, a cross and an offering of food may share a space. Their coexistence invites a historical question; it does not answer every part of it. Adaptation, conflict, and creative continuity can all belong to the account.",
+        "es": "Las celebraciones católicas de Todos los Santos y los Fieles Difuntos forman parte de las conmemoraciones de noviembre. Las prácticas indígenas y cristianas desarrollaron relaciones bajo condiciones coloniales, que incluyeron presión religiosa y desigualdad de poder. La palabra sincretismo describe la unión y transformación de elementos, pero no vuelve sencilla esa historia ni idéntica en todas partes.\n\nEn el presente imaginado, una cruz y una ofrenda de comida pueden compartir un espacio. Su coexistencia invita a una pregunta histórica; no responde a todas sus partes. La adaptación, el conflicto y la continuidad creativa pueden pertenecer al mismo relato."
+      },
+      "sources": [
+        "calendar",
+        "history"
+      ],
+      "photo": "36685209"
+    },
+    {
+      "id": "history-public",
+      "point": "history-public",
+      "title": {
+        "en": "La Catrina: an image with a sharp edge",
+        "es": "La Catrina: una imagen con filo"
+      },
+      "body": {
+        "en": "Another layer takes the form of ink on paper. Imagine an elegant skeletal figure in a print. José Guadalupe Posada's calavera imagery used skeletons to comment on the living, including social pretension and elites. Beauty and satire can meet in the same image.\n\nNow picture the change of medium: the printed figure becomes a costume, a sculpture, a painted face. These later works have their own makers. They are not all individual works by Posada. The visual tradition moves, and each new form can carry, soften, or change what the earlier image expressed.",
+        "es": "Otra capa toma la forma de tinta sobre papel. Imagina una figura esquelética elegante en una estampa. Las calaveras de José Guadalupe Posada comentaban la vida de las personas, incluidas las élites y la pretensión social. La belleza y la sátira pueden encontrarse en una misma imagen.\n\nAhora imagina el cambio de medio: la figura impresa se vuelve traje, escultura o rostro pintado. Esas obras posteriores tienen sus propios creadores. No son todas obras individuales de Posada. La tradición visual se mueve, y cada forma nueva puede conservar, suavizar o cambiar lo que expresaba la imagen anterior."
+      },
+      "sources": [
+        "art",
+        "chicano",
+        "change"
+      ],
+      "photo": "17081090"
+    },
+    {
+      "id": "parade-art",
+      "point": "parade-art",
+      "title": {
+        "en": "The parade: many hands, one moving image",
+        "es": "El desfile: muchas manos, una imagen en movimiento"
+      },
+      "body": {
+        "en": "The small printed figure has brought us back toward the scale of the parade. Imagine costumes and large structures moving along a shared route, one group giving way to another. Their beauty depends on coordination, on people keeping forms and movement in relation.\n\nThe official film selected here documents Mexico City's 2024 parade, although it was uploaded in 2025. Event and upload have different dates. This modern public celebration is one layer of the wider tradition. Let its great scale delight the eye without making a quiet family offering seem any smaller in significance.",
+        "es": "La pequeña figura impresa nos ha devuelto a la escala del desfile. Imagina trajes y estructuras grandes que avanzan por una ruta compartida, un grupo dando paso a otro. Su belleza depende de la coordinación, de personas que mantienen relacionadas las formas y el movimiento.\n\nLa película oficial seleccionada aquí documenta el desfile de 2024 de la Ciudad de México, aunque fue publicada en 2025. El acontecimiento y la publicación tienen fechas distintas. Esta celebración pública moderna es una capa de una tradición más amplia. Deja que su tamaño alegre la mirada sin reducir la importancia de una ofrenda familiar tranquila."
+      },
+      "sources": [
+        "parade",
+        "change"
+      ],
+      "photo": "140189125"
+    },
+    {
+      "id": "floor-history",
+      "point": "floor-history",
+      "title": {
+        "en": "How old is this particular practice?",
+        "es": "¿Qué antigüedad tiene esta práctica concreta?"
+      },
+      "body": {
+        "en": "As the procession passes, leave the question of age in a more precise form. Which practice, in which place, recorded by whom? One number cannot give the history of every object and observance gathered under Día de Muertos.\n\nINAH's historical discussion includes debate about origins and reinterpretation. Gaps in records do not prove absence, just as resemblance does not prove direct descent. Imagine keeping the evidence beside the question, with room between them where the answer remains uncertain. That space is part of understanding a living tradition.",
+        "es": "Mientras pasa el desfile, deja la pregunta sobre la antigüedad en una forma más precisa. ¿Qué práctica, en qué lugar, registrada por quién? Un solo número no puede contar la historia de todos los objetos y conmemoraciones reunidos bajo el nombre Día de Muertos.\n\nLa discusión histórica del INAH incluye debates sobre los orígenes y las reinterpretaciones. Los vacíos documentales no demuestran ausencia, así como el parecido no demuestra descendencia directa. Imagina conservar la evidencia junto a la pregunta, dejando espacio donde la respuesta sigue siendo incierta. Ese espacio forma parte de comprender una tradición viva."
+      },
+      "sources": [
+        "history",
+        "change"
+      ],
+      "photo": "63801891"
+    },
+    {
+      "id": "future",
+      "point": "future",
+      "title": {
+        "en": "A living tradition keeps moving",
+        "es": "Una tradición viva sigue en movimiento"
+      },
+      "body": {
+        "en": "A living tradition continues through actions: arranging, teaching, adapting, explaining, and sometimes disagreeing. Let the image move beyond one night. A home, a school, a museum, and a street bring different audiences and responsibilities into view.\n\nWe began with beauty that caught the eye. Names, places, and work have gathered around it. Now imagine the celebration continuing into ordinary days. The question is no longer only what the arrangement looks like. It is also what relationships help it return, and how people carry those relationships into changing circumstances.",
+        "es": "Una tradición viva continúa mediante acciones: acomodar, enseñar, adaptar, explicar y, a veces, disentir. Deja que la imagen avance más allá de una noche. Una casa, una escuela, un museo y una calle hacen visibles distintos públicos y responsabilidades.\n\nComenzamos con una belleza que atraía la mirada. Alrededor se han reunido nombres, lugares y trabajo. Ahora imagina que la celebración continúa dentro de los días comunes. La pregunta ya no es solo cómo se ve el arreglo. También importa qué relaciones permiten que vuelva y cómo las personas las llevan hacia circunstancias cambiantes."
+      },
+      "sources": [
+        "change",
+        "chicano",
+        "publicaltar"
+      ],
+      "photo": "76976678"
+    },
+    {
+      "id": "sharing",
+      "point": "sharing",
+      "title": {
+        "en": "What happens after the offering?",
+        "es": "¿Qué sucede después de la ofrenda?"
+      },
+      "body": {
+        "en": "Picture the time after the photograph. Regional accounts describe food being shared, with customs of timing and distribution that belong to particular places. Dishes are handled, materials cleared, and a familiar space returns to daily use.\n\nThe disappearance of the arrangement does not erase all that happened around it. A recipe may be remembered, a conversation may continue, a responsibility may be taken up again. Let the imagined table become ordinary without becoming empty of relationship. What carries forward may be less visible than the flowers, but no less worth attending to.",
+        "es": "Imagina el tiempo que sigue a la fotografía. Los relatos regionales describen comida compartida, con costumbres de horarios y distribución propias de cada lugar. Se recogen platos, se retiran materiales y un espacio familiar vuelve al uso cotidiano.\n\nLa desaparición del arreglo no borra todo lo que ocurrió a su alrededor. Puede recordarse una receta, continuar una conversación o retomarse una responsabilidad. Deja que la mesa imaginada vuelva a ser cotidiana sin quedar vacía de relaciones. Lo que continúa puede ser menos visible que las flores, pero merece la misma atención."
+      },
+      "sources": [
+        "xantolo",
+        "regions"
+      ],
+      "photo": "75039066"
+    },
+    {
+      "id": "migration",
+      "point": "migration",
+      "title": {
+        "en": "Remembrance crosses a border",
+        "es": "El recuerdo cruza una frontera"
+      },
+      "body": {
+        "en": "Some of those relationships cross borders. Smithsonian accounts describe how Chicano artists and activists helped develop public Día de Muertos celebrations in the United States, including work associated with Self Help Graphics in East Los Angeles. Remembrance could connect with identity and present community concerns.\n\nImagine a practice finding another setting, carried by people rather than copied without a history. New circumstances can bring new forms. The photograph at this point remains a comparison image from Mexico; the sources hold the specific United States account. Keep both places visible as the connection grows.",
+        "es": "Algunas de esas relaciones cruzan fronteras. Los relatos del Smithsonian describen cómo artistas y activistas chicanos ayudaron a desarrollar celebraciones públicas de Día de Muertos en Estados Unidos, incluido el trabajo relacionado con Self Help Graphics, en el este de Los Ángeles. El recuerdo podía conectarse con la identidad y con preocupaciones comunitarias del presente.\n\nImagina una práctica que encuentra otro entorno, llevada por personas y acompañada de su historia. Las nuevas circunstancias pueden producir nuevas formas. La fotografía de este punto sigue siendo una imagen comparativa de México; las fuentes contienen el relato específico de Estados Unidos. Conserva visibles ambos lugares mientras crece la conexión."
+      },
+      "sources": [
+        "chicano",
+        "change"
+      ],
+      "photo": "124997069"
+    },
+    {
+      "id": "public-memory",
+      "point": "public-memory",
+      "title": {
+        "en": "Who can a public ofrenda remember?",
+        "es": "¿A quién puede recordar una ofrenda pública?"
+      },
+      "body": {
+        "en": "In public space, remembrance can also gather questions shared beyond a family. The United Nations in Mexico has documented offerings connected with peace. UNAM's 2025 Megaofrenda program addressed migration, exile, and displacement. These are particular examples, with their own purposes.\n\nImagine the attention involved in choosing whose names appear and what a visitor is told. The monumental Mexico City photograph here is a comparison, not a photograph of either named example. An offering can invite public reflection, while still asking us to notice who is represented and whose work has made the invitation possible.",
+        "es": "En el espacio público, el recuerdo también puede reunir preguntas compartidas más allá de una familia. Las Naciones Unidas en México han documentado ofrendas relacionadas con la paz. El programa de la Megaofrenda de la UNAM de 2025 abordó la migración, el exilio y el desplazamiento. Son ejemplos concretos, con propósitos propios.\n\nImagina el cuidado necesario para elegir los nombres que aparecen y lo que se explica a una visita. La fotografía monumental de la Ciudad de México que acompaña este punto es una comparación, no una imagen de esos ejemplos. Una ofrenda puede invitar a la reflexión pública y también pedirnos atención hacia las personas representadas y el trabajo que hizo posible esa invitación."
+      },
+      "sources": [
+        "publicaltar",
+        "unam"
+      ],
+      "photo": "140188696"
+    },
+    {
+      "id": "looking",
+      "point": "looking",
+      "title": {
+        "en": "How to look with attention",
+        "es": "Cómo mirar con atención"
+      },
+      "body": {
+        "en": "Return, for a moment, to the act of looking. A caption gives an image an address: place, maker, date, setting. A posed costume at a public event and an intimate cemetery scene do not offer the same kind of encounter.\n\nLet your attention keep that difference. The photographs here retain their credits; the films belong to their original publishers. Beyond this ORB, hosts' guidance and permission matter, especially around private remembrance. Looking closely can include knowing when to put a camera away. Someone else's practice has a life beyond our experience of seeing it.",
+        "es": "Vuelve, por un momento, al acto de mirar. Una descripción le da dirección a una imagen: lugar, autor, fecha, entorno. Un traje posado en un evento público y una escena íntima de cementerio no ofrecen el mismo tipo de encuentro.\n\nDeja que tu atención conserve esa diferencia. Las fotografías mantienen sus créditos; las películas pertenecen a sus canales originales. Fuera de este ORB importan las indicaciones de quienes reciben y su permiso, especialmente en momentos íntimos de recuerdo. Mirar con atención puede incluir saber cuándo guardar la cámara. La práctica de otra persona tiene una vida más allá de nuestra experiencia de verla."
+      },
+      "sources": [
+        "change",
+        "anthology"
+      ],
+      "photo": "145070295"
+    },
+    {
+      "id": "floor-future",
+      "point": "floor-future",
+      "title": {
+        "en": "What would it mean to carry this forward?",
+        "es": "¿Qué significaría continuar este recuerdo?"
+      },
+      "body": {
+        "en": "And now let the imagined scene grow quiet. This collection cannot decide how a community should preserve or change its traditions. Its open places invite better evidence and more accounts from the people whose lives are represented.\n\nYou may carry one small question back with you: a name, a recipe, or a kindness you would like to remember. This is an optional personal reflection, not an instruction to perform a Mexican ritual. You can also carry curiosity, with nothing to resolve today.\n\nNotice the support beneath you and the sounds in the room where you are. Let your attention return at its own pace. The photograph, the flowers, and the glass can stay in the imagination. Around them now are fields and kitchens, many places, changing histories, and the care of particular people.",
+        "es": "Y ahora deja que la escena imaginada se aquiete. Esta colección no puede decidir cómo una comunidad debe conservar o cambiar sus tradiciones. Sus espacios abiertos invitan a reunir mejores evidencias y más relatos de las personas cuyas vidas se representan.\n\nPuedes llevar contigo una pregunta pequeña: un nombre, una receta o una bondad que quisieras recordar. Es una reflexión personal opcional, no una indicación para realizar un ritual mexicano. También puedes llevar curiosidad, sin tener que resolver nada hoy.\n\nNota el apoyo debajo de tu cuerpo y los sonidos del lugar donde estás. Deja que la atención regrese a su propio ritmo. La fotografía, las flores y el vaso pueden quedarse en la imaginación. Ahora los rodean campos y cocinas, muchos lugares, historias cambiantes y el cuidado de personas particulares."
+      },
+      "sources": [
+        "anthology",
+        "change"
+      ],
+      "photo": "178035302"
+    }
+  ],
+  "authorship": "Primary assistant authored English and Spanish directly. Imagined scenes; source mappings retained.",
+  "review": "Read as a continuous journey and compared with source readings. Narration listening review reported separately."
+}
