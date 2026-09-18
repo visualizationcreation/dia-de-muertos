@@ -472,7 +472,7 @@ body[data-orb-reader="the-orb-skill"] .utility-bar a{display:inline-flex;align-i
   // Each packaged reader keeps its original navigation; this is a separate archive return.
   if(!document.querySelector('.reader-library-return')){
     let header=document.querySelector('header .header-inner')||document.querySelector('header');
-    if(!header){header=document.createElement('nav');header.className='reader-return-bar';header.setAttribute('aria-label','Library navigation');body.prepend(header);}
+    if(!header){header=document.createElement('nav');header.className='reader-return-bar';header.setAttribute('aria-label','Reality Gallery navigation');body.prepend(header);}
     if(header){const existing=[...header.querySelectorAll('a:not(.brand)')].find(a=>/^https:\/\/(?:visualizationcreation\.github\.io|orbiversity\.com)\/orb-archive\/(?:\?.*)?$/.test(a.href));
       const link=existing||document.createElement('a');link.classList.add('reader-library-return');link.href='https://orbiversity.com/orb-archive/';link.textContent='Orb Museum ↗';link.style.marginTop='0';if(!existing)header.append(link);}
   }
